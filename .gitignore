@@ -2,3 +2,5 @@
 td_state.json
 api_info.py
 *.pyc
+chromedriver.exe
+garch.R

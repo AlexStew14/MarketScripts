@@ -276,8 +276,7 @@ def plot_reports_summary(reports_df, rsi_lower_range, rsi_upper_range, ticker, n
         plt.plot(subset.rsi_up, subset.total_profit_pct,
                  label=f'Buy at RSI: {rs}')
 
-    plt.title(
-        f"Total Profit % for Different RSI Strats for {ticker} {num_period} {period_type}")
+    plt.title(f"Total Profit % for Different RSI Strats for {ticker} {num_period} {period_type}")
     plt.ylabel("Total Profit %")
     plt.xlabel("RSI Sell Level")
     plt.xticks(rsi_upper_range)

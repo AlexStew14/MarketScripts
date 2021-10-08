@@ -1,0 +1,816 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.cnbc.com/2021/09/27/amd-ceo-lisa-su-says-chip-shortage-likely-to-end-next-year.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/v/105886383-1556745611033img-1494r-1024654.jpg",
+            "title": "AMD CEO Lisa Su says chip shortage likely to end next year",
+            "text": "Manufacturing plants that were planned last year will likely start producing chips in the coming months, helping to alleviate shortages for PC parts.",
+            "source_name": "CNBC",
+            "date": "Mon, 27 Sep 2021 19:18:24 -0400",
+            "topics": [
+                "CEO"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4457363-amd-intel-offer-similar-returns-focus-on-risks",
+            "image_url": "https://cdn.snapi.dev/images/v1/v/v/semi27-1024479.jpg",
+            "title": "AMD And Intel Offer Similar Returns - Focus On The Risks",
+            "text": "Semiconductor stocks benefit from long-term tailwinds, but steep returns are not guaranteed. INTC and AMD will deliver high-single-digits returns in the coming years, I believe, but due to different reasons.",
+            "source_name": "Seeking Alpha",
+            "date": "Mon, 27 Sep 2021 16:06:00 -0400",
+            "topics": [
+                "paylimitwall"
+            ],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMD",
+                "INTC"
+            ]
+        },
+        {
+            "news_url": "https://www.youtube.com/watch?v=asaI4ohj8qk",
+            "image_url": "https://cdn.snapi.dev/images/v1/k/g/stock-market-mixed-amd-targa-resources-flash-buy-signals-perkinelmer-breaks-support-1024326.jpg",
+            "title": "Stock Market Mixed: AMD, Targa Resources Flash Buy Signals; PerkinElmer Breaks Support",
+            "text": "Stock market mixed: AMD Targa Resources flash buy signals; PerkinElmer breaks support. Investor's Business Daily has been helping people invest smarter results by providing exclusive stock lists, investing data, stock market research, education and the latest financial and business news to help investors make more money in the stock market.",
+            "source_name": "Investors Business Daily",
+            "date": "Mon, 27 Sep 2021 16:04:04 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Video",
+            "tickers": [
+                "AMD",
+                "PKI",
+                "TRGP"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2021/09/keep-buying-amd-stock-as-charts-favor-more-gains/",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/w/amd7-1023991.jpg",
+            "title": "Keep Buying AMD Stock as Charts Favor More Gains",
+            "text": "AMD stock has strong fundamental momentum and the charts look pretty good too. That bodes well for long-term bulls in this name.",
+            "source_name": "InvestorPlace",
+            "date": "Mon, 27 Sep 2021 12:48:58 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2021/09/27/3-reasons-to-buy-amd-stock-over-nvidia/",
+            "image_url": "https://cdn.snapi.dev/images/v1/s/e/semi4-1023913.jpg",
+            "title": "3 Reasons to Buy AMD Stock Over Nvidia",
+            "text": "AMD enjoys several advantages over Nvidia that make buying the former a no-brainer.",
+            "source_name": "The Motley Fool",
+            "date": "Mon, 27 Sep 2021 11:51:59 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD",
+                "NVDA"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2021/09/3-mega-cap-most-shorted-stocks-to-buy/",
+            "image_url": "https://cdn.snapi.dev/images/v1/r/s/semi6-1022187.jpg",
+            "title": "3 Mega-Cap, Most-Shorted Stocks to Buy",
+            "text": "These most-shorted stocks have big dollars bet against them, but if the charts have a say in matters, bulls will have the last laugh. The post 3 Mega-Cap, Most-Shorted Stocks to Buy appeared first on InvestorPlace.",
+            "source_name": "InvestorPlace",
+            "date": "Fri, 24 Sep 2021 15:10:17 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD",
+                "TSLA",
+                "SQ"
+            ]
+        },
+        {
+            "news_url": "https://www.benzinga.com/markets/options/21/09/23095064/trade-options-like-a-pro-check-advanced-micro-devicess-big-money-trades",
+            "image_url": "https://cdn.snapi.dev/images/v1/f/e/semi9-1022111.jpg",
+            "title": "Trade Options Like A Pro \u2014 Check Advanced Micro Devices's Big Money Trades",
+            "text": "Someone with a lot of money to spend (and possibly insider knowledge) has taken an unusually bullish stance on Advanced Micro Devices. And retail traders should know.",
+            "source_name": "Benzinga",
+            "date": "Fri, 24 Sep 2021 14:07:02 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://www.benzinga.com/trading-ideas/long-ideas/21/09/23092131/why-amazon-amd-and-aterian-look-set-for-continuation-where-are-the-stocks-headed",
+            "image_url": "https://cdn.snapi.dev/images/v1/j/b/semi12-1021899.jpg",
+            "title": "Why Amazon, AMD And Aterian Look Set For Continuation: Where Are The Stocks Headed?",
+            "text": "Amazon.com, Inc. (NASDAQ:AMZN), Advanced Micro Devices, Inc. (NASDAQ:AMD) and Aterian Inc (NASDAQ:ATER) have developed inside bar patterns on the daily chart. An inside bar pattern indicates a period of consolidation and is usually followed by a continuation move in the direction of the current trend.",
+            "source_name": "Benzinga",
+            "date": "Fri, 24 Sep 2021 12:07:53 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMD",
+                "ATER"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2021/09/24/the-best-stocks-to-buy-during-september-sell-off/",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/b/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f5219362ftd-ameritrade-apps-and-web-sites-903098-1021688.jpg",
+            "title": "The Best Stocks to Buy During the September Sell-Off",
+            "text": "These high-growth companies can be bought for cheap right now.",
+            "source_name": "The Motley Fool",
+            "date": "Fri, 24 Sep 2021 09:54:10 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD",
+                "BAND"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2021/09/23/why-american-eagle-stock-was-climbing-today/",
+            "image_url": "https://cdn.snapi.dev/images/v1/e/w/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f6442002fteen-girls-in-the-malljpgw700opresize-1020808.jpg",
+            "title": "Why American Eagle Stock Was Climbing Today",
+            "text": "A bullish analyst note helped push the stock higher.",
+            "source_name": "The Motley Fool",
+            "date": "Thu, 23 Sep 2021 16:43:15 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AEO"
+            ]
+        },
+        {
+            "news_url": "https://www.benzinga.com/analyst-ratings/analyst-color/21/09/23071217/why-amd-is-looking-solid-into-the-year-end",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/j/ad65-1020651.jpg",
+            "title": "Why AMD Is Looking 'Solid' Into The Year-End",
+            "text": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares offer\u00a0the potential for about 15% upside from current levels, according to an analyst at Piper Sandler. The AMD Analysts: Analyst Harsh Kumar reiterated an Overweight rating on AMD shares and increased the price target from $110 to $120.",
+            "source_name": "Benzinga",
+            "date": "Thu, 23 Sep 2021 15:52:06 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2021/09/amd-is-generating-high-fcf-margins-that-could-push-amd-stock-signficantly-higher/",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/p/semi25-1020514.jpg",
+            "title": "AMD Is Generating Strong FCF That Could Push AMD Stock Much Higher",
+            "text": "AMD is generating strong FCF that could push AMD stock much higher. With high FCF margins going forward, AMD stock could rise at least 16% to $120 and up to 44% higher to $150.",
+            "source_name": "InvestorPlace",
+            "date": "Thu, 23 Sep 2021 14:06:34 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://247wallst.com/investing/2021/09/23/buy-the-dip-traders-pounced-on-these-10-red-hot-stocks-after-the-massive-monday-sell-off/",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/l/the-3-worst-looking-dow-stocks-from-a-price-chart-perspective-1003611-1020032.jpg",
+            "title": "Buy-the-Dip Traders Pounced on These 10 Red-Hot Stocks After the Massive Monday Sell-Off",
+            "text": "While the damage, at least for the time being, appears to be rather short-lived, Monday's huge sell-off, when combined with the previous two weeks of selling, finally pushed the market down 5%.",
+            "source_name": "24/7 Wall Street",
+            "date": "Thu, 23 Sep 2021 10:37:43 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AAPL",
+                "AMC",
+                "AMD",
+                "BABA",
+                "INTC",
+                "LVS",
+                "MSFT",
+                "NVDA",
+                "VZ",
+                "WYNN"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/stock/news/1799781/september-swoon-just-getting-started-dial-in-your-buy-targets",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/t/semi20-1018867.jpg",
+            "title": "September Swoon Just Getting Started: Dial In Your Buy Targets",
+            "text": "Sell-off is unfolding and even a \"lovey-dovey\" Fed won't save it.",
+            "source_name": "Zacks Investment Research",
+            "date": "Wed, 22 Sep 2021 16:50:03 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMD",
+                "SHOP",
+                "SQQQ",
+                "TQQQ",
+                "TTD"
+            ]
+        },
+        {
+            "news_url": "https://www.benzinga.com/fintech/21/09/23058503/amd-vs-nvidia-does-one-of-these-stocks-look-more-bullish-than-the-other",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/w/star-sign-4374405-1920-1018856.jpg",
+            "title": "AMD Vs. Nvidia: Does One Of These Stocks Look More Bullish Than The Other?",
+            "text": "Advanced Micro Devices Inc. (NASDAQ: AMD) and NVIDIA Corp. (NASDAQ: NVDA) are two microchip stocks trading higher Wednesday as the market for chipmakers is moving up with these two\u00a0stocks at the helm. Both stocks are trading in technical patterns, but which\u00a0one looks more bullish than the other?",
+            "source_name": "Benzinga",
+            "date": "Wed, 22 Sep 2021 16:42:21 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMD",
+                "NVDA"
+            ]
+        },
+        {
+            "news_url": "https://www.benzinga.com/news/21/09/23055666/american-eagle-outfitters-launches-denim-brand-ae77",
+            "image_url": "https://cdn.snapi.dev/images/v1/v/m/apparel4-1018453.jpg",
+            "title": "American Eagle Outfitters Launches Denim Brand 'AE77'",
+            "text": "American Eagle Outfitters Inc\u00a0(NYSE: AEO) has launched AE77, a new artfully designed and sustainably crafted denim brand for men and women. The brand will debut with its first store in New York City's SoHo neighborhood, with an e-commerce site to follow on October 15, 2021, and a second store by year-end.",
+            "source_name": "Benzinga",
+            "date": "Wed, 22 Sep 2021 13:38:27 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AEO"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2021/09/7-crypto-stocks-to-buy-to-honor-bitcoins-new-legal-tender-status/",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/o/top-stocks-to-short-today-as-markets-gain-ahead-of-fed-meeting-732544-902017-1018715.jpg",
+            "title": "7 Crypto Stocks to Buy to Honor Bitcoin's New Legal Tender Status",
+            "text": "These top crypto stocks are among the premier options for investors looking at ways to play the surging cryptocurrency space. The post 7 Crypto Stocks to Buy to Honor Bitcoin's New Legal Tender Status appeared first on InvestorPlace.",
+            "source_name": "InvestorPlace",
+            "date": "Wed, 22 Sep 2021 12:53:44 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD",
+                "CME",
+                "COIN",
+                "JPM",
+                "PYPL",
+                "RIOT",
+                "SI"
+            ]
+        },
+        {
+            "news_url": "https://www.businesswire.com/news/home/20210922005573/en/American-Eagle-Outfitters-Inc.-Launches-AE77-an-Artfully-Designed-and-Sustainably-Crafted-Premium-Denim-Brand/",
+            "image_url": "https://cdn.snapi.dev/images/v1/r/d/press8-1017802.jpg",
+            "title": "American Eagle Outfitters, Inc. Launches AE77, an Artfully Designed and Sustainably Crafted Premium Denim Brand",
+            "text": "NEW YORK--(BUSINESS WIRE)--American Eagle Outfitters, Inc. (NYSE: AEO) today announced the launch of AE77, a new premium denim brand for men and women inspired by the convergence of artistic vision and a planet-first mindset. The brand will debut with its first store in New York City's SoHo neighborhood designed by Stefan Beckman Studio, with an e-commerce site to follow on October 15th and a second store by year end. \u201cAE77 is an exciting new opportunity for AEO Inc., which leverages our leader",
+            "source_name": "Business Wire",
+            "date": "Wed, 22 Sep 2021 09:00:00 -0400",
+            "topics": [
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AEO"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/stock/news/1799233/advanced-micro-devices-amd-gains-as-market-dips-what-you-should-know",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/b/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f5187362fcomputer-chip-1017102.jpg",
+            "title": "Advanced Micro Devices (AMD) Gains As Market Dips: What You Should Know",
+            "text": "Advanced Micro Devices (AMD) closed the most recent trading day at $102.82, moving +1.25% from the previous trading session.",
+            "source_name": "Zacks Investment Research",
+            "date": "Tue, 21 Sep 2021 19:13:25 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4456428-the-market-is-wrong-about-amd",
+            "image_url": "https://cdn.snapi.dev/images/v1/f/b/462-1016934.jpg",
+            "title": "The Market Is Wrong About AMD",
+            "text": "Shares of AMD have declined 17% since they peaked in August. The market appears fixated on the AMD-Xilinx merger.",
+            "source_name": "Seeking Alpha",
+            "date": "Tue, 21 Sep 2021 17:19:06 -0400",
+            "topics": [
+                "paylimitwall"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2021/09/7-undervalued-stocks-to-keep-an-eye-on-for-september-dal-bp-cop-k-amd-axp-ba/",
+            "image_url": "https://cdn.snapi.dev/images/v1/o/b/semi1-1016488.jpg",
+            "title": "7 Undervalued Stocks to Keep an Eye on as We Head Towards October",
+            "text": "Undervalued stocks are tough to find, but several mature stocks are trading at a discount that will be great additions to any portfolio. The post 7 Undervalued Stocks to Keep an Eye on as We Head Towards October appeared first on InvestorPlace.",
+            "source_name": "InvestorPlace",
+            "date": "Tue, 21 Sep 2021 13:11:19 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD",
+                "AXP",
+                "BA",
+                "BP",
+                "COP",
+                "DAL",
+                "K"
+            ]
+        },
+        {
+            "news_url": "https://www.youtube.com/watch?v=rBi-40GMjXI",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/q/order-patterns-for-chips-continue-to-be-very-strong-1016352.jpg",
+            "title": "Order patterns for chips continue to be very strong",
+            "text": "Bernstein senior semiconductor analyst Stacy Rasgon joins 'TechCheck' to break down which areas of the semiconductor space are doing well and which aren't.",
+            "source_name": "CNBC Television",
+            "date": "Tue, 21 Sep 2021 12:24:58 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Video",
+            "tickers": [
+                "AMD",
+                "AVGO",
+                "INTC",
+                "NVDA",
+                "QCOM"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4456206-amd-price-war-wont-matter",
+            "image_url": "https://cdn.snapi.dev/images/v1/b/r/processor-2436992-1920-12-1014686.jpg",
+            "title": "AMD: Price War Won't Matter",
+            "text": "AMD will see limited impact from any attempted price war by Intel in the server sector.",
+            "source_name": "Seeking Alpha",
+            "date": "Mon, 20 Sep 2021 15:43:12 -0400",
+            "topics": [
+                "paylimitwall"
+            ],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4456158-good-time-buy-sell-amd-stock",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/u/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f5298642fcomputer-circuit-boardjpgw700opresize-1014325.jpg",
+            "title": "Is Now A Good Time To Buy Or Sell AMD Stock? Taking Partial Profits Seems Sensible",
+            "text": "AMD has made huge strides in the data center business against Intel. However, it had to surrender some gains in the Desktop business.",
+            "source_name": "Seeking Alpha",
+            "date": "Mon, 20 Sep 2021 11:58:01 -0400",
+            "topics": [
+                "paylimitwall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4456154-american-eagle-another-blowout-quarter-in-q2",
+            "image_url": "https://cdn.snapi.dev/images/v1/4/p/apparel15-1014294.jpg",
+            "title": "American Eagle: Another Blowout Quarter In Q2",
+            "text": "American Eagle released its Q2 results earlier this month, reporting record Q2 revenue of ~$1.19 billion, up 35% year-over-year and high double-digits vs. pre-pandemic levels.",
+            "source_name": "Seeking Alpha",
+            "date": "Mon, 20 Sep 2021 11:25:31 -0400",
+            "topics": [
+                "earnings",
+                "paylimitwall"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AEO"
+            ]
+        },
+        {
+            "news_url": "https://www.benzinga.com/news/21/09/23012980/why-amd-shares-are-falling",
+            "image_url": "https://cdn.snapi.dev/images/v1/2/4/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f5180542f20120-ryzen-processor-mainstream-1260x709-1014222.jpg",
+            "title": "Why AMD Shares Are Falling",
+            "text": "Shares of several companies in the broader technology sector, including\u00a0Advanced Micro Devices, Inc. (NASDAQ: AMD), are trading lower in sympathy with the overall market as investors weigh continued concerns over COVID-19, the Feds two-day meeting and a sell off in Chinese equities. AMD is trading lower by 4.1% over the past five sessions as stocks also pull back amid August strength.",
+            "source_name": "Benzinga",
+            "date": "Mon, 20 Sep 2021 10:51:44 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/stock/news/1798233/september-s-weakness-provides-good-entry-point-top-6-picks",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/z/computer-electronic13-1013691.jpg",
+            "title": "September's Weakness Provides Good Entry Point: Top 6 Picks",
+            "text": "We have narrowed down our search to six U.S. corporate bigwigs that have strong growth potential for the rest of 2021. These are: AAPL, AMD, QCOM, DE, GS, NKE.",
+            "source_name": "Zacks Investment Research",
+            "date": "Mon, 20 Sep 2021 07:40:08 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AAPL",
+                "AMD",
+                "DE",
+                "GS",
+                "NKE",
+                "QCOM"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2021/09/amd-stock-is-a-buy-as-the-company-keeps-expanding-its-market-share/",
+            "image_url": "https://cdn.snapi.dev/images/v1/j/d/amd-0-0-1013488.jpg",
+            "title": "Advanced Micro Devices Is a Buy as the Company Keeps Expanding Its Market Share",
+            "text": "Advanced Micro Devices is firing on all cylinders. Its market share is growing significantly and the Xilinx merger could be a game changer.",
+            "source_name": "InvestorPlace",
+            "date": "Mon, 20 Sep 2021 06:00:15 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2021/09/top-10-trending-reddit-stocks-hearing-the-most-chatter-today/",
+            "image_url": "https://cdn.snapi.dev/images/v1/o/m/entertainment-diversified2-1012383.jpg",
+            "title": "Top 10 Trending Reddit Stocks Hearing the Most Chatter Today",
+            "text": "Reddit stocks continue to be a hot topic among traders looking to chase the last trends and we've got a list of the most popular. The post Top 10 Trending Reddit Stocks Hearing the Most Chatter Today appeared first on InvestorPlace.",
+            "source_name": "InvestorPlace",
+            "date": "Fri, 17 Sep 2021 12:36:56 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMC",
+                "AMD",
+                "BABA",
+                "BODY",
+                "CLOV",
+                "GME",
+                "LCID",
+                "PLTR",
+                "SDC",
+                "SPY"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/stock/news/1797869/semiconductor-etfs-soaring-to-new-heights",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/h/semi4-1012333.jpg",
+            "title": "Semiconductor ETFs Soaring to New Heights",
+            "text": "Semiconductor ETFs have been rallying this year and are hitting new peaks on several occasions.",
+            "source_name": "Zacks Investment Research",
+            "date": "Fri, 17 Sep 2021 12:14:04 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD",
+                "FTXL",
+                "NVDA",
+                "PSI",
+                "SMH",
+                "SOXX",
+                "WDC",
+                "XLNX",
+                "XSD"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2021/09/17/better-buy-amd-vs-micron-technology/",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/w/im-259987-979867-1011904.jpg",
+            "title": "Better Buy: AMD vs. Micron Technology",
+            "text": "You may be surprised at the winner of this comparison.",
+            "source_name": "The Motley Fool",
+            "date": "Fri, 17 Sep 2021 08:17:00 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMD",
+                "MU"
+            ]
+        },
+        {
+            "news_url": "https://www.benzinga.com/trading-ideas/long-ideas/21/09/22979947/amd-is-nearing-the-end-of-a-pennant-pattern-whats-next",
+            "image_url": "https://cdn.snapi.dev/images/v1/0/a/amdmsn2-1-300x165-1011755.jpg",
+            "title": "AMD Is Nearing The End Of A Pennant Pattern: What's Next?",
+            "text": "Advanced Micro Devices Inc. (NASDAQ:AMD) shares\u00a0ticked higher Thursday after a report came out that the company is ready to make ARM chips. AMD closed\u00a0up 0.59% at $106.22.",
+            "source_name": "Benzinga",
+            "date": "Fri, 17 Sep 2021 07:30:16 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2021/09/17/why-i-like-amds-plan-to-address-the-chip-shortage/",
+            "image_url": "https://cdn.snapi.dev/images/v1/i/m/im-284149width620size18233618233618234-1011745.jpg",
+            "title": "Why I Like AMD's Plan to Address the Chip Shortage Problem",
+            "text": "AMD's CFO recently shared which products are taking priority in the supply chain.",
+            "source_name": "The Motley Fool",
+            "date": "Fri, 17 Sep 2021 07:00:00 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/stock/news/1797523/market-outlook-thematic-etf-ideas-for-q4",
+            "image_url": "https://cdn.snapi.dev/images/v1/j/h/ree3-1-822951-827757-1011442.jpg",
+            "title": "Market Outlook & Thematic ETF Ideas for Q4",
+            "text": "We discuss 5G, Quantum Computing, Hydrogen & SPAC ETFs.",
+            "source_name": "Zacks Investment Research",
+            "date": "Thu, 16 Sep 2021 19:06:29 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AAPL",
+                "AMD",
+                "DKNG",
+                "FIVG",
+                "GOOGL",
+                "HDRO",
+                "MSFT",
+                "QTUM",
+                "SPAK",
+                "SPCE"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4455692-amd-stock-strong-momentum-and-path-to-strong-compounded-annual-returns",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/h/social-964956-987877-1011363.jpg",
+            "title": "AMD Stock: Strong Momentum And Path To Strong Compounded Annual Returns",
+            "text": "In the dark days of 2015 and 2016, AMD traded for less than $3 and the company was loaded down with junk bonds. Today, AMD's tech is getting positive reviews, the balance sheet is cleaned up, and there are big opportunities to continue grabbing market share in data centers.",
+            "source_name": "Seeking Alpha",
+            "date": "Thu, 16 Sep 2021 18:07:00 -0400",
+            "topics": [
+                "paylimitwall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://investorplace.com/2021/09/4-top-stock-trades-for-friday-amd-f-body-googl/",
+            "image_url": "https://cdn.snapi.dev/images/v1/f/6/semi6-1011367.jpg",
+            "title": "4 Top Stock Trades for Friday: AMD, F, BODY, GOOGL",
+            "text": "Advanced Micro Devices, Ford, Alphabet and Beachbody were our top stock trades for Friday. Now, here's how the charts are shaping up.",
+            "source_name": "InvestorPlace",
+            "date": "Thu, 16 Sep 2021 17:43:05 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD",
+                "F",
+                "GOOG",
+                "GOOGL",
+                "BODY"
+            ]
+        },
+        {
+            "news_url": "https://invezz.com/news/2021/09/16/american-eagle-outfitters-stock-price-forecast-for-september-as-us-retailers-recover/",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/a/american-eagle-outfitters-stock-1011177.jpg",
+            "title": "American Eagle Outfitters stock price forecast for September as US retailers recover",
+            "text": "On Thursday, American Eagle Outfitters Inc. (NYSE:AEO) shares surged 2.5% after the August report on US retail sales showed an increase of 15.1% from the same month a year ago. In addition, last month's sales also increased 0.7% from the previous month, indicating sequential growth.",
+            "source_name": "Invezz",
+            "date": "Thu, 16 Sep 2021 15:56:55 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AEO"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4455588-amd-one-of-the-best-secular-growth-plays-in-the-semiconductor-industry",
+            "image_url": "https://cdn.snapi.dev/images/v1/1/r/amd82-3-1010961.jpg",
+            "title": "AMD Stock: One Of The Best Secular Growth Plays In The Semiconductor Industry",
+            "text": "AMD has transformed its business and financial profile in the past few years, being now one of the best growth plays in the semiconductor industry.",
+            "source_name": "Seeking Alpha",
+            "date": "Thu, 16 Sep 2021 13:18:05 -0400",
+            "topics": [
+                "paylimitwall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/stock/news/1796922/advanced-micro-devices-amd-stock-sinks-as-market-gains-what-you-should-know",
+            "image_url": "https://cdn.snapi.dev/images/v1/i/6/processor-1906082-1920-8-1009723.jpg",
+            "title": "Advanced Micro Devices (AMD) Stock Sinks As Market Gains: What You Should Know",
+            "text": "Advanced Micro Devices (AMD) closed at $105.60 in the latest trading session, marking a -0.12% move from the prior day.",
+            "source_name": "Zacks Investment Research",
+            "date": "Wed, 15 Sep 2021 19:05:25 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4455444-amd-steaming-ahead-with-data-center-chips",
+            "image_url": "https://cdn.snapi.dev/images/v1/0/c/na-2-1009607.jpg",
+            "title": "AMD: Steaming Ahead With Data Center Chips",
+            "text": "I believe AMD is the best semiconductor play in the medium to long term. Likely to see strong top line growth with best-in-class data center processors and a new entrance into handheld gaming.",
+            "source_name": "Seeking Alpha",
+            "date": "Wed, 15 Sep 2021 17:36:53 -0400",
+            "topics": [
+                "paylimitwall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/stock/news/1796789/box-gets-picked-by-lotte-for-secured-content-collaboration",
+            "image_url": "https://cdn.snapi.dev/images/v1/k/v/semi18-1009108.jpg",
+            "title": "BOX Gets Picked by Lotte for Secured Content Collaboration",
+            "text": "BOX company-wide has been selected by Lotte to make an advancement in the latter's Digital Transformation program and strengthen collaboration infrastructure.",
+            "source_name": "Zacks Investment Research",
+            "date": "Wed, 15 Sep 2021 12:59:23 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD",
+                "ASML",
+                "BOX",
+                "MSFT"
+            ]
+        },
+        {
+            "news_url": "https://www.youtube.com/watch?v=n23cnBBke-8",
+            "image_url": "https://cdn.snapi.dev/images/v1/r/i/weak-stock-market-closes-continue-deckers-steps-up-while-microsoft-amd-set-up-1007426.jpg",
+            "title": "Weak Stock Market Closes Continue; Deckers Steps Up While Microsoft, AMD Set Up",
+            "text": "Weak stock market closes continue; Deckers steps up while Microsoft, AMD set up. Investor's Business Daily has been helping people invest smarter results by providing exclusive stock lists, investing data, stock market research, education and the latest financial and business news to help investors make more money in the stock market.",
+            "source_name": "Investors Business Daily",
+            "date": "Tue, 14 Sep 2021 16:01:12 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Video",
+            "tickers": [
+                "AMD",
+                "DECK"
+            ]
+        },
+        {
+            "news_url": "https://www.youtube.com/watch?v=WynaaBcwk3w",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/r/options-bulls-see-upside-in-amd-1007271.jpg",
+            "title": "Options bulls see upside in AMD",
+            "text": "\"Halftime Report\" trader Pete Najarian spots unusual activity in the options market.",
+            "source_name": "CNBC Television",
+            "date": "Tue, 14 Sep 2021 14:37:34 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Video",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/commentary/1796002/top-ranked-growth-stocks-to-buy-for-september-14th",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/b/8ucd22-1006656.jpg",
+            "title": "Top Ranked Growth Stocks to Buy for September 14th",
+            "text": "AMD, MAN, ARCB, and HCKT made it to the Zacks Rank #1 (Strong Buy) growth stocks list on September 14, 2021.",
+            "source_name": "Zacks Investment Research",
+            "date": "Tue, 14 Sep 2021 10:42:18 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMD",
+                "ARCB",
+                "HCKT",
+                "MAN"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/stock/news/1795906/advanced-micro-devices-amd-sees-hammer-chart-pattern-time-to-buy",
+            "image_url": "https://cdn.snapi.dev/images/v1/h/t/semi15-1006402.jpg",
+            "title": "Advanced Micro Devices (AMD) Sees Hammer Chart Pattern: Time to Buy?",
+            "text": "Advanced Micro Devices (AMD) has been struggling lately, but the selling pressure may be coming to an end soon.",
+            "source_name": "Zacks Investment Research",
+            "date": "Tue, 14 Sep 2021 09:10:09 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://www.investopedia.com/american-eagle-outfitters-aeo-option-traders-unconfident-5201058",
+            "image_url": "https://cdn.snapi.dev/images/v1/y/l/july-2011-078-56a2184e5f9b58b7d0c685c0-1004835.jpg",
+            "title": "American Eagle Outfitters (AEO) Option Traders Unconfident",
+            "text": "Traders and investors bid down the share price of AEO before earnings, but option trading after earnings indicates that investor confidence is fading.",
+            "source_name": "Investopedia",
+            "date": "Mon, 13 Sep 2021 12:20:34 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AEO"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4454661-advanced-micro-devices-inc-amd-management-presents-deutsche-bank-technology-conference-2021",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/e/transcript28-1003208.jpg",
+            "title": "Advanced Micro Devices, Inc. (AMD) Management Presents at Deutsche Bank Technology Conference 2021 (Transcript)",
+            "text": "Advanced Micro Devices, Inc. (AMD) Management Presents at Deutsche Bank Technology Conference 2021 (Transcript)",
+            "source_name": "Seeking Alpha",
+            "date": "Fri, 10 Sep 2021 20:23:05 -0400",
+            "topics": [
+                "CallScript",
+                "paylimitwall"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMD",
+                "DB"
+            ]
+        },
+        {
+            "news_url": "https://www.zacks.com/stock/news/1794486/advanced-micro-devices-amd-stock-moves-0-02-what-you-should-know",
+            "image_url": "https://cdn.snapi.dev/images/v1/5/w/processor-1906082-1920-8-1001737.jpg",
+            "title": "Advanced Micro Devices (AMD) Stock Moves -0.02%: What You Should Know",
+            "text": "Advanced Micro Devices (AMD) closed at $106.15 in the latest trading session, marking a -0.02% move from the prior day.",
+            "source_name": "Zacks Investment Research",
+            "date": "Thu, 09 Sep 2021 19:30:29 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMD"
+            ]
+        },
+        {
+            "news_url": "https://www.youtube.com/watch?v=dvv_-05s57Y",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/q/focus-on-investing-in-companies-with-long-runways-for-growth-cordisco-1001649.jpg",
+            "title": "Focus on investing in companies with long runways for growth: Cordisco",
+            "text": "Larry Cordisco, portfolio manager for the Osterweis Growth and Income Fund, joins The Exchange with his analysis of which stocks will weather a potential incoming market correction.",
+            "source_name": "CNBC Television",
+            "date": "Thu, 09 Sep 2021 18:10:20 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Video",
+            "tickers": [
+                "AMD",
+                "APTV",
+                "GOOG",
+                "GOOGL"
+            ]
+        },
+        {
+            "news_url": "https://www.businesswire.com/news/home/20210909006072/en/American-Eagle-Outfitters-Declares-a-Regular-Quarterly-Dividend-of-0.18-Per-Share/",
+            "image_url": "https://cdn.snapi.dev/images/v1/h/g/press9-1001497.jpg",
+            "title": "American Eagle Outfitters Declares a Regular Quarterly Dividend of $0.18 Per Share",
+            "text": "PITTSBURGH--(BUSINESS WIRE)--American Eagle Outfitters, Inc. (NYSE: AEO) announced a quarterly cash dividend of $0.18 per share. The dividend was declared on September 9, 2021 and is payable on October 22, 2021 to stockholders of record at the close of business on October 8, 2021. About American Eagle Outfitters, Inc. American Eagle Outfitters, Inc. (NYSE: AEO) is a leading global specialty retailer offering high-quality, on-trend clothing, accessories and personal care products at affordable p",
+            "source_name": "Business Wire",
+            "date": "Thu, 09 Sep 2021 16:30:00 -0400",
+            "topics": [
+                "dividend",
+                "PressRelease"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AEO"
+            ]
+        }
+    ]
+}

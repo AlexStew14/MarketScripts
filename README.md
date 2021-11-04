@@ -21,5 +21,8 @@ Rolling Forecasts with ARIMA
 ![image](https://user-images.githubusercontent.com/22061120/140422925-1827f485-fd5f-414c-8376-169f51225005.png)
 Automated Support and Resistance Levels for AMAT using local extrema
 
+![image](https://user-images.githubusercontent.com/22061120/140423660-e71870b6-4dd5-4e81-802e-4de161e81f8f.png)
+Max-Pain price level for AEO. Max-Pain is the price at which the most amount of money will be lost on expiring options.
+
 ![image](https://user-images.githubusercontent.com/22061120/140423001-5a05cb51-2489-4cf4-a201-7324682923f3.png)
 Interactive early demo for my CS bachelors capstone project. Live data is fetched and processed.
